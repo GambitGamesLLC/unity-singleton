@@ -1,0 +1,18 @@
+{
+  "name": "com.gambit.singleton",
+  "version": "1.0.0",
+  "displayName": "unity-singleton",
+  "description": "Adds singleton functionality to Monobehaviour components. When creating a new class inherit from Singleton<T> to use.",
+  "unity": "2021.1",
+  "documentationUrl": "https://github.com/GambitGamesLLC/unity-singleton",
+  "changelogUrl": "https://github.com/GambitGamesLLC/unity-singleton",
+  "licensesUrl": "https://github.com/GambitGamesLLC/unity-singleton",
+ "keywords": [
+    "Singleton"
+  ],
+  "author": {
+    "name": "GambitGamesLLC",
+    "email": "gambitgamesllc@gmail.com",
+    "url": "https://github.com/GambitGamesLLC/unity-singleton"
+  }
+}
